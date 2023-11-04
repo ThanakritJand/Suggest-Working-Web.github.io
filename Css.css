@@ -371,7 +371,7 @@ a{
 /* pty */
 
 .Pty{
-    width: 80%;
+    width: 90%;
     margin: auto;
     text-align: center;
     padding-top: 50px;
@@ -384,8 +384,8 @@ a{
 .card{
     color: #fff;
     background-color: #000000; 
-    width: 300px;
-    height: 500px;
+    width: 500px;
+    height: 700px;
     margin: 10px;
     border-radius: 10%;
     transition: 0.5s;
