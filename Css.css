@@ -397,32 +397,32 @@ a{
     border-radius: 10%;
 }
 .car-1{
-    background-image: url(image/phy2.jpg);
+    background-image: url(phy2.jpg);
     background-size: cover;
 }
 .car-2{
-    background-image: url(image/phy3.jpg);
+    background-image: url(phy3.jpg);
 }
 .car-3{
-    background-image: url(image/phy4.jpg);
+    background-image: url(phy4.jpg);
 }
 .car-4{
-    background-image: url(image/phy5.jpg);
+    background-image: url(phy5.jpg);
 }
 .car-5{
-    background-image: url(image/phy6.jpg);
+    background-image: url(phy6.jpg);
 }
 .car-6{
-    background-image: url(image/phy7.jpg);
+    background-image: url(phy7.jpg);
 }
 .car-7{
-    background-image: url(image/phy8.jpg);
+    background-image: url(phy8.jpg);
 }
 .car-8{
-    background-image: url(image/phy9.png);
+    background-image: url(phy9.png);
 }
 .car-9{
-    background-image: url(image/phy10.jpg);
+    background-image: url(phy10.jpg);
 }
 .card p{
     padding: 10px;
@@ -448,7 +448,7 @@ a{
 /* call action */
 
 .cta{
-    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(image/Mac.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(Mac.jpg);
     background-position: center;
     background-size: cover;
     text-align: center;
@@ -488,7 +488,7 @@ a{
 .Sub-header{
     height: 50vh;
     width: 100%;
-    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(image/Mac.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(Mac.jpg);
     background-position: center;
     background-size: cover;
 }
